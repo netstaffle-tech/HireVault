@@ -1,11 +1,13 @@
 # HireVault
 Smart HR. Simplified. Secure. Centralized. Efficient.
 
+---
 
 ## 🌐 Site URL  
 🔗 https://www.hirevault.com
 
 ---
+
 
 ## 🧩 Project Overview  
 Smart HR. Simplified.Secure. Centralized. Efficient.
@@ -16,6 +18,7 @@ HireVault helps businesses streamline HR operations and manage their workforce m
 ## 🎯 Key Features
 ![Module](https://github.com/netstaffle-tech/HireVault/blob/main/hirevault_Application.png)
 
+---
 
 ## 🚀 Enhancements & Improvements
 
@@ -30,6 +33,7 @@ HireVault helps businesses streamline HR operations and manage their workforce m
     
 *(Customize based on project)*
 
+---
 
 ## 🛠️ Tech Stack  
 **Frontend:**  
@@ -47,6 +51,7 @@ HireVault helps businesses streamline HR operations and manage their workforce m
 - Document Details
 - Role Management
 
+---
 
 ## 🔐 Code Access  
 
